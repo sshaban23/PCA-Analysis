@@ -2,7 +2,7 @@
 
 A1: PROPOSAL OF QUESTION:
 
-Which factors influence customer churn?
+"Which factors influence customer churn?"
 
 A2: DEFINED GOAL:
 
